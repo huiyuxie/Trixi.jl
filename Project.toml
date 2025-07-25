@@ -64,7 +64,7 @@ TrixiNLsolveExt = "NLsolve"
 
 [compat]
 Accessors = "0.1.36"
-CodeTracking = "1.0.5"
+CodeTracking = "1.0.5, 2"
 ConstructionBase = "1.5"
 Convex = "0.16"
 DataStructures = "0.18.15"
